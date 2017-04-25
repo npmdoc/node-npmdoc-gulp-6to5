@@ -1,4 +1,7 @@
-# api documentation for  [gulp-6to5 (v3.0.0)](https://github.com/6to5/gulp-6to5)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-6to5.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-6to5) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-6to5.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-6to5)
+# npmdoc-gulp-6to5
+
+#### basic api documentation for  [gulp-6to5 (v3.0.0)](https://github.com/6to5/gulp-6to5)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-6to5.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-6to5) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-6to5.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-6to5)
+
 #### Turn ES6 code into vanilla ES5 with no runtime required
 
 [![NPM](https://nodei.co/npm/gulp-6to5.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-6to5)
@@ -89,7 +92,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
